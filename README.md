@@ -17,8 +17,8 @@ The framework uses Vision Transformers (ViT) and evaluates performance on both s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sim2real-tank-classification.git
-cd sim2real-tank-classification
+git clone https://github.com/hediD/sim_robustifier.git
+cd sim_robustifier 
 ```
 
 2. Install dependencies:
