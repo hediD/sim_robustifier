@@ -1,3 +1,10 @@
+datasets_local.py
+evaluate_imagenet_checkpoint.py
+evaluation.py
+inference_comparison.py
+similarity_analysis.py
+
+
 # Project-specific exclusions
 data/
 outputs/
