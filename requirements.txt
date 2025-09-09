@@ -1,0 +1,9 @@
+torch
+torchvision
+tqdm
+numpy
+Pillow
+requests
+transformers>=4.41.0
+datasets>=2.19.0
+scikit-learn
